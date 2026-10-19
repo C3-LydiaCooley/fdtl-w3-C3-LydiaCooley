@@ -1,2 +1,2 @@
-# fdtl-w3-lydiac3ai
+# fdtl-w3-C3-LydiaCooley
 training 3
