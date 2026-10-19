@@ -1,0 +1,44 @@
+[
+  {
+    "id": "seed_book_dune",
+    "title": "Dune",
+    "author": "Frank Herbert",
+    "readingStatus": "to-read",
+    "shelfOutcome": "undecided"
+  },
+  {
+    "id": "seed_book_piranesi",
+    "title": "Piranesi",
+    "author": "Susanna Clarke",
+    "readingStatus": "reading",
+    "shelfOutcome": "undecided"
+  },
+  {
+    "id": "seed_book_kindred",
+    "title": "Kindred",
+    "author": "Octavia E. Butler",
+    "readingStatus": "finished",
+    "shelfOutcome": "kept"
+  },
+  {
+    "id": "seed_book_circe",
+    "title": "Circe",
+    "author": "Madeline Miller",
+    "readingStatus": "finished",
+    "shelfOutcome": "donated"
+  },
+  {
+    "id": "seed_book_ulysses",
+    "title": "Ulysses",
+    "author": "James Joyce",
+    "readingStatus": "DNF",
+    "shelfOutcome": "donated"
+  },
+  {
+    "id": "seed_book_moby_dick",
+    "title": "Moby-Dick",
+    "author": "Herman Melville",
+    "readingStatus": "DNF",
+    "shelfOutcome": "kept"
+  }
+]

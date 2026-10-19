@@ -1,0 +1,15 @@
+/**
+ * A book on the reading list.
+ */
+entity type Book schema name "BOOK" {
+  title: string
+  author: string
+  readingStatus: string enum('to-read', 'reading', 'finished', 'DNF') = 'to-read'
+  shelfOutcome: string enum('undecided', 'kept', 'donated') = 'undecided'
+
+  /**
+   * Counts of books grouped by readingStatus, computed server-side.
+   * Returns rows shaped like {readingStatus, count}.
+   */
+  readingStatusCounts: function(): [json] js-server
+}

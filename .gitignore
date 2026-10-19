@@ -1,0 +1,4 @@
+node_modules/
+readingList/react/dist/
+readingList/.fingerprints.txt
+.DS_Store
